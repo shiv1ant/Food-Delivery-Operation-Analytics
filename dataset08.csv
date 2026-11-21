@@ -1,0 +1,101 @@
+Order_ID,Order_DateTime,City,Restaurant,Cuisine,Order_Value,Payment_Mode,Distance_km,Delivery_Time_min,Order_Status,Customer_Rating
+ORD100317,2026-08-26 12:52:14,Mumbai,Wok & Roll,Chinese,230.0,UPI,3.8,39.0,Delivered,4.0
+ORD104091,2026-09-21 19:12:42,Bengaluru,Taco Fiesta,Mexican,220.0,UPI,3.4,37.0,Delivered,4.0
+ORD105880,2026-08-21 10:04:32,Bengaluru,Burger Barn,Fast Food,280.0,Credit Card,3.3,31.0,Delivered,5.0
+ORD101686,2026-08-19 19:53:42,Pune,Dosa Delight,South Indian,235.0,Wallet,2.7,28.0,Delivered,5.0
+ORD102832,2026-09-19 19:11:01,Mumbai,The Royal Feast,Mughlai,650.0,UPI,8.5,51.0,Delayed,3.0
+ORD105787,2026-08-31 13:09:25,Hyderabad,Pizza Piazza,Italian,565.0,UPI,6.3,36.0,Delivered,4.0
+ORD102216,2026-10-13 15:34:40,Bengaluru,Pizza Piazza,Italian,945.0,Debit Card,6.3,37.0,Delivered,5.0
+ORD102143,2026-10-19 15:29:00,Kolkata,Grill Masters,BBQ,700.0,Wallet,6.4,33.0,Delivered,4.0
+ORD103614,2026-08-13 09:36:06,Delhi,Momo Magic,Tibetan,190.0,UPI,3.6,26.0,Delivered,4.0
+ORD102807,2026-10-21 08:28:07,Pune,Sushi Zen,Japanese,1125.0,UPI,3.3,28.0,Delivered,5.0
+ORD105223,2026-08-22 21:35:10,Chennai,Roll Express,Fast Food,380.0,UPI,5.5,42.0,Delivered,4.0
+ORD103798,2026-09-26 14:11:31,Hyderabad,Burger Barn,Fast Food,550.0,UPI,2.1,25.0,Delivered,4.0
+ORD101257,2026-10-25 13:32:10,Chennai,Wok & Roll,Chinese,375.0,Credit Card,4.2,39.0,Delivered,5.0
+ORD104637,2026-10-08 20:51:40,Kolkata,The Royal Feast,Mughlai,845.0,UPI,2.9,45.0,Delivered,5.0
+ORD104391,2026-08-18 13:13:14,Delhi,Tandoori Tales,North Indian,475.0,UPI,14.8,69.0,Delayed,2.0
+ORD104457,2026-09-26 21:22:32,Bengaluru,Tandoori Tales,North Indian,880.0,Wallet,3.0,,Cancelled,
+ORD101291,2026-10-11 14:30:57,Bengaluru,Pasta Palace,Italian,800.0,Debit Card,5.3,32.0,Delivered,3.0
+ORD104417,2026-08-16 17:27:20,Pune,Wok & Roll,Chinese,425.0,Wallet,7.5,30.0,Delivered,4.0
+ORD102752,2026-08-02 19:40:24,Bengaluru,Sweet Tooth,Desserts,450.0,UPI,5.6,38.0,Delivered,5.0
+ORD100433,2026-09-01 12:19:28,Mumbai,Kebab Kingdom,Mughlai,640.0,UPI,1.8,34.0,Delivered,5.0
+ORD102475,2026-08-27 18:55:08,Mumbai,Dosa Delight,South Indian,160.0,UPI,3.3,28.0,Delivered,5.0
+ORD103468,2026-09-27 22:12:14,Hyderabad,Taco Fiesta,Mexican,1115.0,Cash on Delivery,5.6,28.0,Delivered,5.0
+ORD104384,2026-08-06 22:01:30,Kolkata,Tandoori Tales,North Indian,645.0,UPI,3.3,25.0,Delivered,5.0
+ORD102170,2026-10-10 18:34:28,Mumbai,Pasta Palace,Italian,800.0,Credit Card,8.0,44.0,Delivered,4.0
+ORD100024,2026-09-02 16:25:00,Bengaluru,Pasta Palace,Italian,390.0,Credit Card,1.9,24.0,Delivered,5.0
+ORD104713,2026-08-16 22:46:07,Mumbai,Pizza Piazza,Italian,700.0,Credit Card,1.2,24.0,Delivered,3.0
+ORD103298,2026-09-24 18:15:41,Mumbai,Green Bowl,Healthy,310.0,Credit Card,1.4,36.0,Delivered,4.0
+ORD103210,2026-09-14 11:26:54,Mumbai,Tandoori Tales,North Indian,595.0,Credit Card,2.6,26.0,Delivered,5.0
+ORD101136,2026-09-04 05:55:30,Bengaluru,Burger Barn,Fast Food,200.0,UPI,3.1,29.0,Delivered,3.0
+ORD101563,2026-10-05 09:02:56,Ahmedabad,Burger Barn,Fast Food,755.0,UPI,1.8,15.0,Delivered,4.0
+ORD102559,2026-10-23 19:22:41,Delhi,Chai & Chaat,Street Food,170.0,Debit Card,3.0,42.0,Delivered,5.0
+ORD104991,2026-09-25 11:19:18,Bengaluru,Pizza Piazza,Italian,460.0,UPI,12.9,,Delayed,3.0
+ORD102738,2026-09-29 20:36:54,Chennai,Pizza Piazza,Italian,835.0,Cash on Delivery,9.0,43.0,Delivered,5.0
+ORD105812,2026-09-30 17:13:04,Hyderabad,Wok & Roll,Chinese,560.0,UPI,4.2,34.0,Delivered,4.0
+ORD104684,2026-09-13 14:41:30,Delhi,Wok & Roll,Chinese,400.0,Cash on Delivery,8.5,39.0,Delivered,4.0
+ORD104466,2026-08-31 22:59:27,Chennai,Kebab Kingdom,Mughlai,580.0,UPI,7.5,37.0,Delivered,4.0
+ORD101736,2026-10-07 19:07:09,Delhi,Tandoori Tales,North Indian,560.0,UPI,6.4,41.0,Delivered,4.0
+ORD105171,2026-08-27 19:35:19,Hyderabad,Pasta Palace,Italian,490.0,Credit Card,10.9,55.0,Delayed,2.0
+ORD105664,2026-10-18 20:02:16,Kolkata,The Royal Feast,Mughlai,1295.0,UPI,5.0,,Cancelled,
+ORD104275,2026-10-22 19:19:18,Delhi,Sushi Zen,Japanese,695.0,UPI,7.8,48.0,Delayed,2.0
+ORD101518,2026-10-17 10:39:17,Delhi,Roll Express,Fast Food,120.0,UPI,4.1,31.0,Delivered,5.0
+ORD102335,2026-10-07 21:32:16,Mumbai,Taco Fiesta,Mexican,380.0,Cash on Delivery,6.3,43.0,Delivered,5.0
+ORD105151,2026-08-10 08:50:00,Hyderabad,Thali House,Indian Thali,400.0,UPI,3.8,26.0,Delivered,4.0
+ORD101423,2026-08-15 14:21:10,Kolkata,Tandoori Tales,North Indian,590.0,UPI,5.8,31.0,Delivered,5.0
+ORD105975,2026-10-17 21:29:47,Kolkata,Thali House,Indian Thali,220.0,Debit Card,3.4,35.0,Delivered,5.0
+ORD103502,2026-09-24 08:43:00,Ahmedabad,Sweet Tooth,Desserts,275.0,UPI,5.8,26.0,Delivered,4.0
+ORD101777,2026-09-21 18:26:24,Mumbai,Kebab Kingdom,Mughlai,635.0,Credit Card,5.9,37.0,Delivered,4.0
+ORD103628,2026-08-12 20:06:57,Kolkata,Taco Fiesta,Mexican,240.0,Wallet,2.6,44.0,Delivered,3.0
+ORD105993,2026-10-18 05:57:27,Delhi,Burger Barn,Fast Food,290.0,Debit Card,2.2,22.0,Delivered,5.0
+ORD100036,2026-10-11 15:52:46,Hyderabad,Pizza Piazza,Italian,970.0,Credit Card,5.4,31.0,Delivered,4.0
+ORD103239,2026-08-23 20:17:57,Bengaluru,Chai & Chaat,Street Food,250.0,Credit Card,5.1,43.0,Delivered,4.0
+ORD104299,2026-10-07 21:31:17,Delhi,Kebab Kingdom,Mughlai,600.0,Cash on Delivery,2.7,32.0,Delivered,4.0
+ORD101658,2026-10-23 12:33:54,Bengaluru,Dosa Delight,South Indian,265.0,Cash on Delivery,1.7,29.0,Delivered,5.0
+ORD100269,2026-10-24 22:56:39,Pune,Green Bowl,Healthy,605.0,Debit Card,7.3,30.0,Delivered,5.0
+ORD104560,2026-08-18 20:11:39,Hyderabad,Burger Barn,Fast Food,315.0,Debit Card,6.5,38.0,Delivered,5.0
+ORD101185,2026-10-19 06:00:17,Hyderabad,Taco Fiesta,Mexican,390.0,Credit Card,5.2,,Delivered,4.0
+ORD100977,2026-08-26 19:38:28,Delhi,The Royal Feast,Mughlai,460.0,UPI,7.3,43.0,Delivered,5.0
+ORD100017,2026-10-05 20:44:09,Kolkata,Pizza Piazza,Italian,645.0,UPI,6.5,41.0,Delivered,5.0
+ORD102519,2026-10-26 21:23:31,Bengaluru,Sushi Zen,Japanese,695.0,UPI,2.2,30.0,Delivered,5.0
+ORD103476,2026-10-27 21:03:46,Hyderabad,Thali House,Indian Thali,655.0,Cash on Delivery,2.3,25.0,Delivered,4.0
+ORD104165,2026-10-14 02:08:49,Hyderabad,Roll Express,Fast Food,385.0,UPI,4.9,24.0,Delivered,4.0
+ORD100062,2026-09-24 21:16:39,Bengaluru,Pizza Piazza,Italian,835.0,Credit Card,8.5,50.0,Delayed,2.0
+ORD102465,2026-08-13 16:50:15,Hyderabad,Wok & Roll,Chinese,460.0,Cash on Delivery,1.5,20.0,Delivered,3.0
+ORD102273,2026-10-10 12:13:08,Delhi,Burger Barn,Fast Food,490.0,UPI,1.4,35.0,Delivered,5.0
+ORD100879,2026-10-15 17:25:01,Mumbai,Sushi Zen,Japanese,1195.0,UPI,6.9,38.0,Delivered,5.0
+ORD100115,2026-10-22 23:28:03,Mumbai,Tandoori Tales,North Indian,350.0,UPI,1.7,28.0,Delivered,5.0
+ORD100454,2026-08-19 18:40:16,Mumbai,Kebab Kingdom,Mughlai,315.0,UPI,4.6,30.0,Delivered,5.0
+ORD105950,2026-10-20 14:40:05,Hyderabad,Wok & Roll,Chinese,470.0,UPI,1.7,,Cancelled,
+ORD105655,2026-08-03 12:02:02,Delhi,Burger Barn,Fast Food,410.0,Cash on Delivery,7.5,,Cancelled,
+ORD103483,2026-08-26 17:26:43,Delhi,Chai & Chaat,Street Food,190.0,UPI,1.2,28.0,Delivered,3.0
+ORD101548,2026-09-05 05:36:27,Delhi,Burger Barn,Fast Food,325.0,UPI,6.8,34.0,Delivered,5.0
+ORD101975,2026-08-03 11:04:36,Chennai,Pizza Piazza,Italian,840.0,Debit Card,6.9,37.0,Delivered,4.0
+ORD103384,2026-09-14 13:47:11,Mumbai,Sweet Tooth,Desserts,240.0,Cash on Delivery,4.6,38.0,Delivered,4.0
+ORD104255,2026-08-08 19:07:11,Bengaluru,Taco Fiesta,Mexican,495.0,Credit Card,2.1,40.0,Delivered,5.0
+ORD100796,2026-09-29 14:19:54,Delhi,Curry Leaf,South Indian,465.0,UPI,4.1,,Cancelled,
+ORD100456,2026-10-19 22:59:37,Mumbai,Chai & Chaat,Street Food,150.0,Credit Card,2.3,32.0,Delivered,5.0
+ORD105293,2026-10-29 11:42:08,Delhi,Thali House,Indian Thali,370.0,UPI,0.8,30.0,Delivered,4.0
+ORD100467,2026-10-06 12:59:34,Hyderabad,Pizza Piazza,Italian,315.0,UPI,2.9,31.0,Delivered,5.0
+ORD103128,2026-09-21 09:25:01,Kolkata,Burger Barn,Fast Food,225.0,UPI,9.8,42.0,Delivered,3.0
+ORD102418,2026-09-16 21:50:07,Bengaluru,Spice Route,North Indian,515.0,UPI,1.9,,Cancelled,
+ORD100203,2026-09-06 08:10:26,Hyderabad,Tandoori Tales,North Indian,495.0,Wallet,5.9,39.0,Delivered,5.0
+ORD102284,2026-08-12 21:50:08,Mumbai,Chai & Chaat,Street Food,175.0,Cash on Delivery,1.0,30.0,Delivered,5.0
+ORD103416,2026-08-19 13:50:34,Kolkata,Pasta Palace,Italian,310.0,UPI,7.0,38.0,Delivered,4.0
+ORD101166,2026-08-29 20:56:19,Mumbai,Taco Fiesta,Mexican,310.0,Credit Card,3.1,36.0,Delivered,5.0
+ORD102846,2026-10-05 22:16:53,Mumbai,Pasta Palace,Italian,545.0,UPI,5.0,37.0,Delivered,3.0
+ORD102766,2026-08-09 12:41:22,Delhi,Green Bowl,Healthy,340.0,UPI,6.7,,Cancelled,
+ORD104488,2026-10-03 15:13:32,Delhi,Thali House,Indian Thali,375.0,UPI,3.8,29.0,Delivered,5.0
+ORD104570,2026-09-14 19:40:52,Bengaluru,Taco Fiesta,Mexican,660.0,UPI,1.8,30.0,Delivered,4.0
+ORD105508,2026-09-21 21:13:12,Chennai,Pizza Piazza,Italian,565.0,Wallet,2.5,26.0,Delivered,5.0
+ORD100719,2026-09-24 09:51:17,Pune,Spice Route,North Indian,370.0,UPI,2.6,21.0,Delivered,5.0
+ORD103739,2026-08-07 16:27:48,Hyderabad,Chai & Chaat,Street Food,175.0,Wallet,2.1,25.0,Delivered,5.0
+ORD104341,2026-10-14 21:09:54,Hyderabad,Chai & Chaat,Street Food,295.0,Debit Card,7.0,37.0,Delivered,4.0
+ORD102311,2026-10-11 19:29:39,Delhi,Wok & Roll,Chinese,385.0,UPI,3.5,31.0,Delivered,4.0
+ORD105297,2026-09-27 09:33:55,Bengaluru,Green Bowl,Healthy,550.0,UPI,4.7,30.0,Delivered,3.0
+ORD103690,2026-09-28 12:49:02,Hyderabad,Grill Masters,BBQ,550.0,Debit Card,6.9,37.0,Delivered,5.0
+ORD101742,2026-09-30 07:36:49,Pune,Thali House,Indian Thali,420.0,Credit Card,2.3,17.0,Delivered,5.0
+ORD102285,2026-09-06 10:16:54,Delhi,Dosa Delight,South Indian,245.0,Cash on Delivery,2.0,28.0,Delivered,4.0
+ORD102727,2026-08-08 23:44:37,Kolkata,Tandoori Tales,North Indian,630.0,Credit Card,4.4,26.0,Delivered,5.0
+ORD104787,2026-09-23 13:48:10,Mumbai,Green Bowl,Healthy,490.0,UPI,1.9,,Cancelled,
+ORD102610,2026-10-11 11:08:31,Mumbai,Grill Masters,BBQ,1000.0,UPI,1.5,25.0,Delivered,5.0
